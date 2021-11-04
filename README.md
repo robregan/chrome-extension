@@ -9,3 +9,8 @@ Want to add this to your browser?
   - turn developer mode on
   - click 'Load Unpacked' and select the folder where you saved these files
   - thats it! 
+
+Things to add/work on
+  - dollar icon isn't working
+  - add different catagories/lists to group different types of leads
+  - level up that CSS a bit
